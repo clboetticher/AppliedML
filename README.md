@@ -1,2 +1,3 @@
 # AppliedML
-Code sharing for Northwestern MSDS 422 - Applied Machine Learning (Winter 2020)
+Code sharing for Northwestern MS in Data Science program 
+MSDS 422 - Applied Machine Learning (Winter 2020)
