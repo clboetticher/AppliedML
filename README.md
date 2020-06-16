@@ -22,6 +22,6 @@ The portfolio of projects in this repository cover the following:
 * A4: Random forests and gradient boosting
 * A5: Principal Components Analysis (PCA)
 * A6: Neural networks
-* A7: Image processing with a CNN
-* A8: Language modeling with an RNN
+* A7: Image processing with CNNs
+* A8: Language modeling with RNNs
 
