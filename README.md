@@ -1,6 +1,6 @@
 # AppliedML
 ### Code sharing for Northwestern MS in Data Science program<br>
-### MSDS 422 - Applied Machine Learning (Winter 2020)
+### MSDS 422 (Winter 2020)
 
 The course serves as an introduction to machine learning with business applications. It provides a survey of machine learning techniques, including traditional statistical methods, resampling techniques, model selection and regularization, tree-based methods, principal components analysis, cluster analysis, artificial neural networks, and deep learning. Students implement machine learning models with open-source software for data science. They explore data and learn from data, finding underlying patterns useful for data reduction, feature analysis, prediction, and classification.
 
