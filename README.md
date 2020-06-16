@@ -25,4 +25,4 @@ The portfolio of projects in this repository cover the following:
 * A7: Image processing with CNNs
 * A8: Language modeling with RNNs
 
-Formal reports on each project - outlining data source, objectives, methods, results, and conclusions - are contained in the [pdfs folder](https://github.com/clboetticher/AppliedML/pdfs). 
+Formal reports on each project - outlining data source, objectives, methods, results, and conclusions - are contained in the [pdfs folder](https://github.com/clboetticher/AppliedML/tree/master/pdfs). 
